@@ -1,0 +1,11 @@
+Alzheimer’s disease is a neurodegenerative disorder that causes cognitive decline, including memory loss, confusion, and changes in behavior. It is the most common cause of dementia, affecting millions of people worldwide. The disease typically progresses slowly, and its symptoms worsen over time, eventually impacting a person’s ability to perform everyday tasks.
+
+In your project, the four classes represent different stages of Alzheimer's disease based on the severity of cognitive decline:
+
+Non-demented: This category refers to individuals who do not show any significant cognitive impairment. They have normal memory, thinking, and reasoning abilities.
+
+Very mild demented: Individuals in this stage exhibit very mild cognitive decline, often characterized by subtle memory lapses or difficulty recalling names or words. However, these issues do not interfere with daily functioning, and the person can still manage most activities independently.
+
+Mild demented: At this stage, cognitive impairment becomes more noticeable. People may experience problems with memory, attention, and reasoning, leading to difficulty with everyday tasks such as managing finances, driving, or handling complex conversations. They may require some assistance in managing daily activities.
+
+Moderate demented: In this stage, cognitive decline is more severe, and individuals often require significant help with daily activities. They may have difficulty recognizing family members or remembering personal history. Their speech and understanding may become more limited, and behavioral changes like confusion or agitation may also occur.
